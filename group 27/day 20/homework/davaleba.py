@@ -1,8 +1,6 @@
-#1
+#2
 #  def hello():
 #     print("GOA BEST ")
-
-#2
 #  hello()
 
 #3
